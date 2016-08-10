@@ -1,0 +1,9 @@
+cd ../ 		[ Change directory ]
+cd / 		[ Back to Start ]
+cd (Path) 	[ "Fast Travel" ]
+
+ls 		[ List ]
+
+mkdir 		[ Make Directory ]
+
+Touch (Folder) 	[ Open ]
