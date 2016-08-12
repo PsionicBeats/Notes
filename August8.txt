@@ -7,9 +7,10 @@ ls 			[ List ]
 
 mkdir <Folder>		[ Make Directory ]
 
-Touch <Folder> 		[ Open ]
+Touch <Folder.txt> 		[ Open ]
 
 git init		[ Initiate ]
 git status 		[ Check status ]
 git add <.txt>		[ Add txt file ]
 git commit -m "-"	
+git push
