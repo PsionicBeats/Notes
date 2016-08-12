@@ -1,9 +1,15 @@
-cd ../ 		[ Change directory ]
-cd / 		[ Back to Start ]
-cd (Path) 	[ "Fast Travel" ]
+cd <Folder>		[ Change directory to... ]
+cd ..			[ Move Up ]
+cd / 			[ Back to Start ]
+cd (Path) 		[ "Fast Travel" ]
 
-ls 		[ List ]
+ls 			[ List ]
 
-mkdir 		[ Make Directory ]
+mkdir <Folder>		[ Make Directory ]
 
-Touch (Folder) 	[ Open ]
+Touch <Folder> 		[ Open ]
+
+git init		[ Initiate ]
+git status 		[ Check status ]
+git add <.txt>		[ Add txt file ]
+git commit -m "-"	
