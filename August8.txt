@@ -1,16 +1,16 @@
-cd <Folder>		[ Change directory to... ]
-cd ..			[ Move Up ]
-cd / 			[ Back to Start ]
-cd (Path) 		[ "Fast Travel" ]
-
-ls 			[ List ]
-
+GitShell Commands
+cd <Folder>			[ Change Directory ]
+cd ..				[ Move Up ]
+cd / 				[ Go to Root Folder ]
+cd (Path) 			[ "Fast Travel" ]
 mkdir <Folder>		[ Make Directory ]
+ls 					[ List Directory ]
+Touch <Folder.txt> 	[ Create a .txt File ]
 
-Touch <Folder.txt> 		[ Open ]
-
-git init		[ Initiate ]
-git status 		[ Check status ]
+Git Commands
+git init			[ Initiate ]
+git status 			[ Check status ]
 git add <.txt>		[ Add txt file ]
-git commit -m "-"	
-git push
+git commit -m "-"	[ Upload to Local ]
+git push			[ Upload to Remote ]
+"clean"				[ No Red in Status ]
