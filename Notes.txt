@@ -11,3 +11,7 @@ touch <file> [ Create file ]
 git init [ Initiate folder ]
 git add <filename> [ Adds file to repository on Github ]
 git commit -m "comment" [ Send to local ]
+git push
+"clean"
+git remote add origin git@github.com:PsionicBeats/
+git push -u origin master
