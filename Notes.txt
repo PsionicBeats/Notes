@@ -1,0 +1,9 @@
+cd 							[ Change directory ]
+cd .. 						[ Exit folder ]
+cd / 						[ Take to C: drive ]
+cd User\Path 				[ Insert for fast travel to folder ]
+
+mkdir 						[ Make directory ]
+mkdir <filename>/<filename> [ Create folder w/ sub folder (?) ]
+touch <file> 				[ Create file ]
+
