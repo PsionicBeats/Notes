@@ -1,19 +1,19 @@
 GitShell Commands
 cd <Folder>					[ Change Directory ]
-cd ..								[ Move Up ]
-cd / 								[ Go to Root Folder ]
+cd ..						[ Move Up ]
+cd / 						[ Go to Root Folder ]
 cd (Path) 					[ "Fast Travel" ]
-mkdir <Folder>			[ Make Directory ]
-ls 									[ List Directory ]
-Touch <Folder.txt> 	[ Create a .txt File ]
+mkdir <Folder>					[ Make Directory ]
+ls 						[ List Directory ]
+Touch <Folder.txt> 				[ Create a .txt File ]
 
 Git Commands
-git init						[ Initiate ]
+git init					[ Initiate ]
 git status 					[ Check status ]
-git add <.txt>			[ Add txt file ]
-git commit -m "-"		[ Upload to Local ]
-git push						[ Upload to Remote ]
-"clean"							[ No Red in Status ]
+git add <.txt>					[ Add txt file ]
+git commit -m "-"				[ Upload to Local ]
+git push					[ Upload to Remote ]
+"clean"						[ No Red in Status ]
 
 UI - User Interface
 	-Visual
@@ -21,11 +21,11 @@ UX - User Xperience
 	-User and exp using the site
 	-Interaction btwn user and product
 
-ul - Unordered List [ <ul> ]
-li - Items [ Is the child ]
+ul - Unordered List 	[ <ul> ]
+li - Items 		[ Is the child ]
 [ Can pretty much do anything inside of a list ]
-ol - Ordered list [ <ol> ]
-li - Items [ Is the child ]
+ol - Ordered list 	[ <ol> ]
+li - Items 		[ Is the child ]
 
 NAV - Navigation
 Side list example
