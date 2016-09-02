@@ -51,3 +51,8 @@ Journal Entry looks like
 	<div class="article">
 		<h3> question </h3>
 		<p> answer <p>
+
+CSS
+Touch styles.css
+Classes can be styled through ".(class name)"
+CSS-Tricks website is a good reference
