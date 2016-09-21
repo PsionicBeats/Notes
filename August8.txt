@@ -56,3 +56,6 @@ CSS
 Touch styles.css
 Classes can be styled through ".(class name)"
 CSS-Tricks website is a good reference
+https://css-tricks.com/
+http://kellishouts.github.io/css-properties/
+- Another reference
