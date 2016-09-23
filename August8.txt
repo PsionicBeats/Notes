@@ -59,3 +59,7 @@ CSS-Tricks website is a good reference
 https://css-tricks.com/
 http://kellishouts.github.io/css-properties/
 - Another reference
+
+Middle IMG => hero.png
+
+Nav can go in header
