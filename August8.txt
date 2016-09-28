@@ -58,8 +58,39 @@ Classes can be styled through ".(class name)"
 CSS-Tricks website is a good reference
 https://css-tricks.com/
 http://kellishouts.github.io/css-properties/
-- Another reference
+http://www.w3schools.com/css
 
 Middle IMG => hero.png
 
 Nav can go in header
+
+Responsive Design
+	- A flexible layout that detects the visitor's screen size & orientation
+	- Change layout accordingly
+
+Grid Based Web Design
+	- Design with grid content
+
+Media Queries
+	- Break Points
+	- Use in CSS to change to whatever size you tell it
+	- 3 Common Uses
+		- Desktop, Mobile, Tablet
+
+What is em in CSS?
+	- Measurement
+		- Adj size of parent
+		- Convert to px by multiplying 1.5
+	- Use em for responsive
+
+Pseudo Class Selectors
+	- Define specific state of element
+
+What is Mobile Design?
+	- Web application that is designed to fit mobile
+	- Need Media Queries
+	- Simplicity
+		- Ex. IG
+
+What is Specificity?
+	- Using more specific rules
