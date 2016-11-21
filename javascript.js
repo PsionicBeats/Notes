@@ -38,6 +38,13 @@ var HALP = null; HALP
 
 // || OR
 
+// Ex
+
+var degreeOutside = 70;
+var numberOfClouds = 50;
+function itsraining(degreeOutside, numberOfClouds)
+	if (degreeOutside 
+
 // Funct is an execute statement
 function (){
 
@@ -66,3 +73,5 @@ function creategreeting(name, age) {
 			return ''
 		}
 }
+
+// node.js install for npm install to work Q A Q
